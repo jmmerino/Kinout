@@ -11,3 +11,7 @@ src-client/stylesheets/layout.css
 src-client/stylesheets/reset.css
 
 src-client/stylesheets/widgets.css
+
+kinout.sublime-project
+kinout.sublime-workspace
+vendor/build.sh
